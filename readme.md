@@ -1,4 +1,4 @@
-# 1_Remix
+# TestContract
 
 This project is a simple Solidity practice project designed to be used with [Remix IDE](https://remix.ethereum.org/). It contains a basic smart contract that demonstrates core Solidity concepts such as state variables, arrays, mappings, structs, modifiers, events, and public functions.
 
